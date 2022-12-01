@@ -5,9 +5,7 @@
 
 - 📫 Contato: **ciberseguranca@unimedvaledoaco.coop.br**
 
-- 📄 Nossos funcionários: [Davi Werneck](https://github.com/WerG0D) | Analista de Cibersegurança (Red Team)
-
-[Amanda Lopes](https://github.com/AmandaJrE) | Analista de Cibersegurança (Blue Team)
+- 📄 Nossos funcionários: [Davi Werneck](https://github.com/WerG0D) | Analista de Cibersegurança | [Amanda Lopes](https://github.com/AmandaJrE) | Analista de Cibersegurança
 
 - ⚡ Fun fact **Não conseguimos viver sem café :D**
 
